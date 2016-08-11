@@ -1,0 +1,75 @@
+.text-center {
+  text-align: center;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.center {
+  float: center
+}
+
+.top-boxes {
+  border: 2px solid blue;
+  padding: 10px 130px;
+  background-color: rgba(0,0,255,0.03);
+  display: inline-block;
+}
+
+table, th, td {
+  border: 1px solid black;
+  background-color: lightgray;
+}
+
+table {
+  margin: auto;
+  width: 90%;
+  text-align: center
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+.list {
+  display: inline-block;
+  padding: 20px 100px;
+}
+
+h3 {
+  padding-left: 80px
+}
+
+.circle {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    background: green;
+    border: 3px solid black;
+    margin: 0 120px 0 120px;
+    display: inline-block;
+}
+
+.square-color {
+    width: 160px;
+    height: 160px;
+    background: purple;
+    border: 3px solid black;
+    margin: 0 120px 0 120px;
+    display: inline-block;
+}
+
+.square-picture {
+    width: 160px;
+    height: 160px;
+    background-image: url("http://www.diyanazman.com/blogs/wp-content/uploads/2010/01/Kokades-the-Rabbit-160x160.jpg");
+    border: 3px solid blue;
+    margin: 0 120px 0 120px;
+    display: inline-block;
+}

@@ -1,0 +1,64 @@
+body {
+  background-color: gray;
+  color: black;
+}
+
+h3 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.pull-left {
+  float: left;
+}
+
+.pull-right {
+  float: right;
+}
+
+.container {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  background-color: transparent;
+  position: absolute;
+  width: 50%;
+  border-right: 4px solid black;
+  text-align: center;
+}
+
+.right-half {
+  background-color: transparent;
+  position: absolute;
+  right: 4px;
+  width: 50%;
+  text-align: center;
+}
+
+.jakes {
+  width: 340px;
+  height: 120px;
+  margin-left: 400px;
+  padding: 0;
+  display: inline-block;
+}
+
+.menu {
+  width: 160px;
+  height: 160px;
+  background: transparent;
+  border: 2px dashed black;
+  margin: 0;
+  padding-bottom: 30px;
+  display: inline-block;
+}
